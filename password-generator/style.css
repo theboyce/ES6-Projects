@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: #eee;
+  color: #141415;
+  font-family: "Inter";
+  width: 100vh;
+  height: 100vh;
+}
+
+.container {
+}
